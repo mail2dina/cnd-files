@@ -1,0 +1,28 @@
+2020-10-21 22:01:25,548 DEBUG    root            Loaded Command Group: ['gcloud', 'version']
+2020-10-21 22:01:25,551 DEBUG    root            Running [gcloud.version] with arguments: [--format: "json"]
+2020-10-21 22:01:25,565 INFO     root            Display format: "flattened[no-pad,separator=" "] json"
+2020-10-21 22:01:25,566 INFO     ___FILE_ONLY___ {
+  "Google Cloud SDK": "315.0.0",
+  "alpha": "2020.10.16",
+  "app-engine-go": "1.9.71",
+  "app-engine-java": "1.9.82",
+  "app-engine-python": "1.9.91",
+  "app-engine-python-extras": "1.9.91",
+  "beta": "2020.10.16",
+  "bigtable": "",
+  "bq": "2.0.62",
+  "cbt": "0.9.0",
+  "cloud-build-local": "0.5.1",
+  "cloud-datastore-emulator": "2.1.0",
+  "core": "2020.10.16",
+  "datalab": "20190610",
+  "gsutil": "4.53",
+  "kind": "0.7.0",
+  "kpt": "0.34.0",
+  "kubectl": "1.15.11",
+  "minikube": "1.14.0",
+  "pubsub-emulator": "0.1.2",
+  "skaffold": "1.14.0"
+}
+2020-10-21 22:01:25,575 INFO     ___FILE_ONLY___ 
+
